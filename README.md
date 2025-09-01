@@ -1,2 +1,3 @@
-# train-types-classification-machine-learning
-This project preprocesses open-source railway accelerometer data and trains a machine learning model to replicate and extend the study's experimental component for learning purposes.
+The research study "Trainspotting: Combining Fast Features to Enable Detection on Resource-Constrained Sensing Devices" (https://ieeexplore.ieee.org/document/6240520) introduced a lightweight, well-structured dataset of railway accelerometer readings, designed for classifying train types (e.g., cargo, passenger) using machine learning algorithms. This project preprocesses open-source railway accelerometer data (https://ubicomp.eti.uni-siegen.de/home/datasets/inss12/) and trains a machine learning model to replicate and extend the research study's experimental component for learning purposes.
+
+
